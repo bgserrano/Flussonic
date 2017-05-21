@@ -1,6 +1,6 @@
 http://flussonic.com/doc/installation
 
-# Installing Flussonic using Debian installation package (for Ubuntu 12.04 64bit and higher or Debian Wheezy 64 bit and higher)
+# Installing Flussonic using Debian installation package (for Ubuntu 12.04 64bit and higher or Debian Wheezy 64 bit)
 
 wget -q -O - http://debian.erlyvideo.org/binary/gpg.key | apt-key add -;
 
