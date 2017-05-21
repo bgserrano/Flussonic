@@ -14,6 +14,21 @@ apt-get -y install flussonic flussonic-ffmpeg flussonic-python
 
 /etc/init.d/flussonic start
 
+#Open in browser
+
+web interface on the page http://ip:8080
+ 
+ admin
+ admin
 
 # Cracked flussonic license key
 l4|8Ku8ypPgOUySHysCdkFHW0|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
+#
+#Updating Flussonic
+To install updates, simply update the packages and install Flussonic:
+
+apt-get update
+apt-get -y install flussonic
+/etc/init.d/flussonic restart
+
+
