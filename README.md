@@ -24,6 +24,8 @@ web interface on the page http://ip:8080
 # Cracked flussonic license key
 l4|8Ku8ypPgOUySHysCdkFHW0|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
 
+l4|aO4RO2ZdLEzHAdH46n6iD0|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
+
 # Updating Flussonic
 To install updates, simply update the packages and install Flussonic:
 
